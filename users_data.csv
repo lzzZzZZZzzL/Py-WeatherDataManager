@@ -1,0 +1,9 @@
+用户名,密码,权限
+admin,admin,"{""权限一"": true, ""权限二"": true}"
+Bin,wqgeg2y,"{""权限一"": true, ""权限二"": true}"
+uzi,qawszed132j3,"{""权限一"": true, ""权限二"": true}"
+test,d2h7r3gr73g2,"{""权限一"": true, ""权限二"": false}"
+test2,test12345678,"{""权限一"": false, ""权限二"": true}"
+test3,test12345678,"{""权限一"": false, ""权限二"": false}"
+test4,test12345678,"{""权限一"": true, ""权限二"": true}"
+mytest,123456qwer,"{""权限一"": true, ""权限二"": false}"
